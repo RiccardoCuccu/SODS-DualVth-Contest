@@ -1,0 +1,9 @@
+# ignore WORK_SYNTHESIS files
+WORK_SYNTHESIS/saved
+
+# ignore database / libraries / logfiles 
+*.db
+*.alib
+*.lib
+*.log
+*.svf
